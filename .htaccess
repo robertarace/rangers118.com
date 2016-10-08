@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "rangers118"
+AuthUserFile "/home/ebbhar5/.htpasswds/public_html/rangers118.com/passwd"
+require valid-user

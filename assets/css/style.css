@@ -1,0 +1,77 @@
+
+@font-face {
+    font-family: knowledge;
+    src: url(../fonts/Acknowledgement.otf);
+}
+@font-face {
+    font-family: bearpaw;
+    src: url(../fonts/BEARPAW_.ttf);
+}
+@font-face {
+    font-family: arcon;
+    src: url(../fonts/Arcon-Regular.otf);
+}
+@font-face {
+    font-family: belligerent;
+    src: url(../fonts/belligerent.ttf);
+}
+@font-face {
+    font-family: Comfortaa_Bold;
+    src: url(../fonts/Comfortaa_Bold.ttf);
+}
+
+#home {
+    background: url(../img/tent.svg) no-repeat center center; /*Full Witdth background image*/
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 650px;
+}
+#adventure {
+    background: url(../img/adventure_ranger_header.png) no-repeat center center; /*Full Witdth background image*/
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 650px;
+}
+#discovery {
+    background: url(../img/discovery_ranger_header.png) no-repeat center center; /*Full Witdth background image*/
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 650px;
+}
+    #home h1 {
+        padding-top: 80px;
+        font-weight: 900;
+        font-size: 105px;
+    }
+
+    section {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        background-image: url(../img/);
+    }
+    .bio_section{
+      padding-bottom: 10px;
+
+    }
+    .content_block{
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 80px;
+      padding-right: 80px;
+      font-size: 14pt;
+    }
+
+    h1{
+      font-family: Comfortaa_Bold;
+      font-size: 60pt;
+    }
+    .navbar-font{
+      font-family: Comfortaa_Bold;
+      font-size: 18pt;
+    }
